@@ -43,9 +43,3 @@ This system provides real-time support for patients with cognitive impairments. 
 
 ---
 
-## 🔧 Setup Instructions
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/ai-alzheimers-assistant.git
-cd ai-alzheimers-assistant
